@@ -1,28 +1,27 @@
 # Project Overview
 
-This project is a web application built using Laravel, Bootstrap, and MySQL. The application provides user authentication, menu management, and sleep tracking functionalities. Below is a detailed description of the features and functionality implemented.
+This project is a web application built using Laravel, Bootstrap, and MySQL. The application provides user
+authentication, menu management, and sleep tracking functionalities. Below is a detailed description of the features and
+functionality implemented.
 
 ## Technologies Used
+
 - **Laravel**: Backend framework for application logic and database management.
 - **Bootstrap**: Frontend framework for responsive and aesthetic UI design.
 - **MySQL**: Relational database for storing application data.
 
 ---
-![Screenshot 1](screenshot/screenshot1.png)
-![Screenshot 2](screenshot/screenshot2.png)
-![Screenshot 3](screenshot/screenshot3.png)
-![Screenshot 4](screenshot/screenshot4.png)
-![Screenshot 5](screenshot/screenshot5.png)
-![Screenshot 6](screenshot/screenshot6.png)
-![Screenshot 7](screenshot/screenshot7.png)
-![Screenshot 8](screenshot/screenshot8.png)
-![Screenshot 8](screenshot/screenshot9.png)
-![Screenshot 8](screenshot/screenshot10.png)
+
+| ![Screenshot 1](screenshot/screenshot1.png) | ![Screenshot 2](screenshot/screenshot2.png) | ![Screenshot 3](screenshot/screenshot3.png) | ![Screenshot 4](screenshot/screenshot4.png) | ![Screenshot 5](screenshot/screenshot5.png)   |
+|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|-----------------------------------------------|
+| ![Screenshot 6](screenshot/screenshot6.png) | ![Screenshot 5](screenshot/screenshot5.png) | ![Screenshot 6](screenshot/screenshot6.png) | ![Screenshot 9](screenshot/screenshot9.png) | ![Screenshot 10](screenshot/screenshot10.png) |
 
 ---
+
 ## Features
 
 ### Authentication
+
 - **Registration**: Users can create accounts using a simple registration form.
 - **Login**: Secure login functionality with validation.
 - **Forgot Password**: Password recovery through email.
@@ -32,12 +31,14 @@ This project is a web application built using Laravel, Bootstrap, and MySQL. The
     - Delete a user.
 
 ### Menu Management
+
 - **Create Menu**: Users can create a menu entry.
 - **Edit Menu**: Modify the details of an existing menu.
 - **View Menu URL**: Display the URL linked to a menu.
 - **Delete Menu**: Remove an existing menu entry.
 
 ### Sleep Tracking
+
 - **Daily Sleep Data Input**:
     - Bedtime.
     - Wake-up time.
@@ -63,7 +64,7 @@ This project is a web application built using Laravel, Bootstrap, and MySQL. The
 
 1. **Clone the Repository**:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/dongorias/TpUserFlow.git
    ```
 2. **Install Dependencies**:
    ```bash
@@ -87,6 +88,7 @@ This project is a web application built using Laravel, Bootstrap, and MySQL. The
 ---
 
 ## Future Enhancements
+
 - Add more advanced analytics for sleep tracking.
 - Implement user roles and permissions.
 - Enhance the UI/UX for better usability.
@@ -94,7 +96,8 @@ This project is a web application built using Laravel, Bootstrap, and MySQL. The
 ---
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+
+This project is open-source and available under the [MIT License](https://fr.wikipedia.org/wiki/Licence_MIT).
 
 ---
 
